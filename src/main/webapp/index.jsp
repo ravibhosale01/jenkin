@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! updated</h2>
+<h2>Hello World! updated for scm</h2>
 </body>
 </html>
